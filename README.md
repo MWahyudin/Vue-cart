@@ -1,5 +1,5 @@
 # vue_cart
-
+![](demo.gif)
 ## Project setup
 ```
 yarn install
